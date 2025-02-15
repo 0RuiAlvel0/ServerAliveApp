@@ -3,6 +3,8 @@
 This is a simple website health checker for Android. It consists of a widget and a settings page.
 Although I have some experience with Android apps using java, this is my first Kotlin app.
 
+To install/ use, you need to clone the repository, open it with Android studio (or another IDE, but I only have experience with Android Studio) and then run it on an emulator (to see it works) or on you own device (when your device is used as debug device). For any other way, you need to create your own apk. Note that you will want to go to app/src/main/java/com/example/serveraliveapp/PingService.kt and edit to include your own server names and server URL.
+
 The widget shows a green (URL reachable) or red icon (URL not reachable).
 
 Current version (ALPHA):
