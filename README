@@ -1,4 +1,6 @@
-This is a simple website checker for Android. It consists of a widget and a settings page.
+![alt text](https://imgur.com/a/RMfJui0)
+
+This is a simple website health checker for Android. It consists of a widget and a settings page.
 Although I have some experience with Android apps using java, this is my first Kotlin app.
 
 The widget shows a green (URL reachable) or red icon (URL not reachable).
@@ -17,4 +19,5 @@ Future features (P1 - actively under implementation; P4 - later):
 - P2 Widget contents dynamically adjusts to the amount of servers defined.
 - P3 I defined the service icon to show at the top of the screen to indicate that the service is running. For now I can't make it show.
 - P3 Notification to be issued when one of the servers is detected down.
+- P3 Check ssl certificate dates and warn user when close to the expiry date.
 - P4 Setup of cloud server to email a list of emails when a server goes down.
