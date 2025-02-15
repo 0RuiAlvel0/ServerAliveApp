@@ -1,4 +1,4 @@
-![alt text](https://github.com/0RuiAlvel0/ServerAliveApp/edit/master/ServerAliveApp.png?raw=true)
+![Alt text](https://github.com/0RuiAlvel0/ServerAliveApp/raw/master/ServerAliveApp.png)
 
 This is a simple website health checker for Android. It consists of a widget and a settings page.
 Although I have some experience with Android apps using java, this is my first Kotlin app.
