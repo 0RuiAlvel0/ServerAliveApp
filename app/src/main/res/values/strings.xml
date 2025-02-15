@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ServerAliveApp</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="title_activity_settings">Configuration</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Add server</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Add server IP or domain</string>
+    <string name="reply_title">Default reply action</string>
+
+</resources>
